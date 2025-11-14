@@ -25,3 +25,5 @@ Responsive Design
 Moeilijker JavaScript codes maken
 
 Html advanced
+
+https://github-readme-stats.vercel.app/api?username=rafaelmckes-boop&show_icons=true
