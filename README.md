@@ -26,4 +26,10 @@ Moeilijker JavaScript codes maken
 
 Html advanced
 
-https://github-readme-stats.vercel.app/api?username=Raffoxygames&show_icons=true
+## 📊 GitHub Statistieken
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raffoxygames&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Raffoxygames&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raffoxygames&layout=compact&theme=tokyonight)
