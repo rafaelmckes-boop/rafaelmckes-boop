@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hey! Ik ben Rafael Kes
 
-<!--
-**rafaelmckes-boop/rafaelmckes-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ik doe de volgende dingen:
+ Front-end Software Developer in opleiding
+ Student bij Bit Academy
+ Bouwen van webinterfaces
 
-Here are some ideas to get you started:
+🚀 Over mij
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ik ben een enthousiaste front-end developer die graag ideeën omzet in mooie, interactieve interfaces. Bij de Bit Academy werk ik dagelijks aan projecten waarmee ik mijn skills in HTML, CSS, JavaScript en moderne frameworks verbeter.
+
+ Creatief in probleemoplossing
+ Altijd op zoek naar nieuwe technieken & tools
+
+🛠️ Skills & Tools
+
+HTML / CSS / JavaScript
+
+Git & GitHub
+
+Responsive Design
+
+📚 Momenteel aan het leren
+
+Moeilijker JavaScript codes maken
+
+Html advanced
