@@ -31,5 +31,3 @@ Html advanced
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelmckes-boop&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rafaelmckes-boop&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmckes-boop&layout=compact&theme=tokyonight)
