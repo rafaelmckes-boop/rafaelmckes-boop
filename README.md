@@ -7,7 +7,7 @@
 
 ## 🚀 Over mij
 
-Ik ben een enthousiaste front-end developer die graag ideeën omzet in mooie, interactieve interfaces. Bij de Bit Academy werk ik dagelijks aan projecten waarmee ik mijn skills in HTML, CSS, JavaScript en moderne frameworks verbeter.
+Ik ben een front-end developer die graag ideeën omzet in mooie, interactieve interfaces. Bij de Bit Academy werk ik dagelijks aan projecten waarmee ik mijn skills in HTML, CSS, JavaScript en moderne frameworks verbeter.
 
  Creatief in probleemoplossing
  Altijd op zoek naar nieuwe technieken & tools
